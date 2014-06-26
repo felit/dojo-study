@@ -1,4 +1,2 @@
 dojo-study
 ==========
-
-for dojo
